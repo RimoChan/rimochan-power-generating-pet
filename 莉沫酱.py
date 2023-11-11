@@ -277,7 +277,6 @@ class 莉沫酱:
         r, _ = 超问(messages)
         assert r
         self._活动(t, '主动说话', '莉沫酱', r)
-        return r
 
 
 def test():
